@@ -1,5 +1,7 @@
 
 
+## Poject Url : https://github.com/Mahesh1vallepu/Blogging-Platform-API
+
 # 📝 Blogging Platform API
 
 A simple RESTful API built with Spring Boot and MySQL that allows users to perform CRUD operations on blog posts. This project demonstrates best practices for building REST APIs, including request validation, HTTP methods, and error handling.
