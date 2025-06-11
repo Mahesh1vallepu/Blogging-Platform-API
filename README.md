@@ -47,7 +47,7 @@ A simple RESTful API built with Spring Boot and MySQL that allows users to perfo
 }
 
 📝 Get a Single Blog Post
-GET /Blog/posts/{id}
+GET/Blog/posts/{id}
 {
   "id": 1,
   "title": "My First Blog Post",
