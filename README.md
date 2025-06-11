@@ -1,6 +1,5 @@
 
 
-## Poject Url : https://github.com/Mahesh1vallepu/Blogging-Platform-API
 
 # 📝 Blogging Platform API
 
@@ -8,6 +7,9 @@ A simple RESTful API built with Spring Boot and MySQL that allows users to perfo
 
 ---
 
+## Poject Url : https://github.com/Mahesh1vallepu/Blogging-Platform-API
+
+---
 ## 🔧 Tech Stack
 
 - Java 17+
