@@ -7,7 +7,7 @@ A simple RESTful API built with Spring Boot and MySQL that allows users to perfo
 
 ---
 
-## Poject Url : https://github.com/Mahesh1vallepu/Blogging-Platform-API
+## Poject Url : https://roadmap.sh/projects/blogging-platform-api
 
 ---
 ## 🔧 Tech Stack
